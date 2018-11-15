@@ -1,0 +1,98 @@
+{
+  "login": {
+    "data": {
+      "token": "DSAW23123123SAW",
+      "name": "name",
+      "password": "888888"
+    }
+  },
+  "user": {
+    "page": {
+      "page_current": 1,
+      "page_total": 40,
+      "page_size": 20
+    },
+    "role_data": [
+      {
+        "label": "管理员",
+        "value": 1
+      },
+      {
+        "label": "普通用户",
+        "value": 2
+      },
+      {
+        "label": "vip用户",
+        "value": 3
+      }
+    ],
+    "user_data": [
+      {
+        "id": 1,
+        "loginname": "banwang  qiang",
+        "username": "强半万",
+        "mobile": "15179236849",
+        "email": "web_hwf@sina.com",
+        "role": "管理员"
+      },
+      {
+        "id": 2,
+        "loginname": "ZiXing Wang",
+        "username": "万子欣",
+        "mobile": "15179236849",
+        "email": "web_hwf@sina.com",
+        "role": "游客"
+      },
+      {
+        "id": 3,
+        "loginname": "si li",
+        "username": "李四",
+        "mobile": "15179236849",
+        "email": "web_hwf@sina.com",
+        "role": "管理员"
+      },
+      {
+        "id": 4,
+        "loginname": "minghang li",
+        "username": "李敏韩",
+        "mobile": "15179236849",
+        "email": "web_hwf@sina.com",
+        "role": "游客"
+      },
+      {
+        "id": 5,
+        "loginname": "xinxin wang",
+        "username": "王欣欣",
+        "mobile": "15179236849",
+        "email": "web_hwf@sina.com",
+        "role": "管理员"
+      }
+    ]
+  },
+  "add_user": [
+    {
+      "loginname": "fasdf",
+      "username": "asdfa",
+      "mobile": 123123,
+      "email": "fasdfas@aa.com",
+      "role": "管理员",
+      "id": 1
+    },
+    {
+      "loginname": "fasdf",
+      "username": "asdfa",
+      "mobile": 123123,
+      "email": "fasdfas@aa.com",
+      "role": "管理员",
+      "id": 2
+    },
+    {
+      "loginname": "fasdf",
+      "username": "asdfa",
+      "mobile": 123123,
+      "email": "fasdfas@aa.com",
+      "role": "管理员",
+      "id": 3
+    }
+  ]
+}
